@@ -7,7 +7,7 @@
     "tag": "tag.hbs",
     "pagination": "partials/pagination.hbs",
     "comment-list": "partials/comment-list.hbs,
-    "author": "author.hbs"
+    "author": "author.hbs",
   },
   "version":"1.0.0"
 }
