@@ -1,6 +1,6 @@
 = Hello World...
 thegusti
-:author: thegusti
+:hp-author: thegusti
 :published_at: 2015-03-30
 :hp-tags: firstpost, hubpress
 
