@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "thegusti",
-    "repositoryName": "imho",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"thegusti","repositoryName":"imho","branch":"gh-pages"},"site":{"url":"https://thegusti.github.io/imho"},"socialnetwork":{},"theme":{"name":"uno","url":"//thegusti.github.io/imho/themes/uno"}}
