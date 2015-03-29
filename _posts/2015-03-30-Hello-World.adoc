@@ -3,7 +3,7 @@
 :published_at: 2015-03-30
 :hp-tags: firstpost, hubpress
 
-das hier ist dan wohl die Präambel, auch wenn ich ehrlicherweise wenig Ahnung davon habe, was ich hier rein schreiben soll. Wie dem auch sei, hiermit steht jetzt offiziell was da.
+das hier ist dann wohl die Präambel, auch wenn ich ehrlicherweise wenig Ahnung davon habe, was ich hier rein schreiben soll. Wie dem auch sei, hiermit steht jetzt offiziell was da.
 
 == ...oder wie auch immer man das nennt
 
