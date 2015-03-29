@@ -1,5 +1,5 @@
 = Hello World...
-:author: thegusti
+thegusti
 :published_at: 2015-03-29
 :hp-tags: firstpost, hubpress
 
